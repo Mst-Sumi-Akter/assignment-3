@@ -1,10 +1,10 @@
-Assignment - 03
+# Assignment - 03
 
 Problem - 01  Divide the Asset 
 
 রহিম করিম ২ ভাই।  তাদের বাবার একটা জমি আছে  যার ক্ষেত্রফল  area নামে একটা ভ্যারিয়েবলে সেভ করা আছে।  তাদের বাবা তাদের কে সমান  ২  ভাগে সম্পত্তি ভাগ করে দিতে চান। এখন ২ জন ঠিক কতটুকু জমি পাবে সেটা প্রোগ্রাম করে বের করো এবং নিচের মতো করে আউটপুট হিসেবে দেখাও।
 
-Value of area  ( 0 < number  <=109 ) 
+Value of area  ( 0 < number <= 10^9) 
 Output (number)
 100
 50
@@ -115,7 +115,7 @@ var fileName= "pdfData.jpg";
 
 Problem 05 - PH Email Generator
 
-{ name: string , roll: number ,department: string  }
+{ name: string, roll: number,department: string  }
 
 
 উপরের অব্জেক্ট এর Structure টি লক্ষ্য করো।  ph university তে  পড়া student এর Data   student  নামের একটা ভ্যারিয়েবলে সেইভ করা আছে  ।  তোমাকে এমন একটা প্রোগ্রাম লিখতে হবে যেটা   student  অব্জেক্ট এর ডাটা এর উপর ভিত্তি করে  একটা ইমেইল  জেনারেট করে দেবে। ইমেইল টা হবে ঠিক নিচের স্ট্রাকচারে 
@@ -150,7 +150,7 @@ var student= { name: "jhankar" , roll: 1014 ,department: "cse" };
 
 
 
-Problem 06 :  Current Salary ( Challenge Problem ) 
+Problem 06:  Current Salary ( Challenge Problem ) 
 
 হাসান সাহেব সরকারী চাকুরী করেন ।  তিনি কত বছর ধরে  চাকুরী করেন  সেটা  experience নামে একটা ভ্যারিয়েবলে Save করা আছে । হাসান সাহেবে যে salary দিয়ে জয়েন করেছেন সেটা startingSalary নামে একটা ভ্যারিয়েবলে save করা আছে। 
 প্রতি বছর হাসান সাহেবের স্যালারি ৫% করে বৃদ্ধি হয় । হাসান সাহেবের বর্তমান স্যালারি  কত সেটা বের করার জন্য প্রোগ্রাম লেখো। দশমিকের পর সর্বোচ্চ ২ ডিজিট সংখ্যা থাকবে।  এবং নিচের মতো করে আউটপুট দেখাবে। 
